@@ -1,0 +1,2 @@
+C:\Users\jhkim\Desktop\server\x64\Debug\server.exe
+C:\Users\jhkim\Desktop\socket_programming\final\server\x64\Debug\server.exe
